@@ -1,3 +1,3 @@
 Commit
 
-Testing PR for GitHub badge
+Testing PR for GitHub badge.
